@@ -25,6 +25,6 @@ This project applies **Analysis of Variance (ANOVA)** techniques to agricultural
 ## Statistical Insights
 * **Insignificant Interactions:** The analysis proved that phytosanitary treatments perform consistently across all wheat varieties (p-value > 0.05 for interaction).
 
-## 📁 Repository Structure
+## Repository Structure
 * `wheat_yield_anova.ipynb`: The complete Python notebook with statistical tests and visualizations.
 * `README.md`: Project documentation and summary of findings.
